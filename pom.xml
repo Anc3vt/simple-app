@@ -8,8 +8,8 @@
     <artifactId>simple-app</artifactId>
     <version>0.0.1</version>
 
-    <name>Text Tools</name>
-    <url>https://githib.com/Anc3vt/texttools</url>
+    <name>Simple app</name>
+    <url>https://githib.com/Anc3vt/simple-app.git</url>
 
     <licenses>
         <license>
@@ -70,9 +70,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.ancevt.util</groupId>
-            <artifactId>args</artifactId>
-            <version>2.1.0</version>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>1.2.17</version>
         </dependency>
     </dependencies>
 
